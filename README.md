@@ -1,2 +1,2 @@
-# Java
-Java web project
+# Java7
+Java7 project
